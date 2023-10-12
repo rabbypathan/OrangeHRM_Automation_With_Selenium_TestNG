@@ -20,7 +20,7 @@ https://drive.google.com/file/d/1yv5MrcsUMvZEplXPxW9T-Qsh8XYhZdH1/view?usp=drive
 
 ## How to run this project:
 - Clone this project
-- open build.gradle file in IntelliJ IDEA
+- Open build.gradle file in IntelliJ IDEA
 - Open terminal
 - Give this following command for smoke test: ```gradle clean test -Pfilesuite="SmokeMasterSuite.xml"```
 - Give this following command for regression test: ```gradle clean test -Pfilesuite="RegressionMasterSuite.xml"```
