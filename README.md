@@ -1,4 +1,4 @@
-# OrangeHRM_Selenium_TestNG_Automation
+# OrangeHRM_Automation_With_Selenium_TestNG
 In this project, Selenium WebDriver and TestNG framework are used to automate the Orange HRM website. Faker library is used to generate random users. Here I have automated login, logout, create new user, search user & update user.
 
 ## Tools & Technology used:
