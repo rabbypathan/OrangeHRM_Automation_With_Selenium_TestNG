@@ -12,12 +12,6 @@ In this project, Selenium WebDriver and TestNG framework are used to automate th
 - jdk
 - gradle
 
-## Smoke_Test Automation Video:
-https://drive.google.com/file/d/13HuR8JboLOWjzwwJPhGuzKDmI2aw6s6T/view?usp=drive_link
-
-## Regression_Test Automation Video:
-https://drive.google.com/file/d/1yv5MrcsUMvZEplXPxW9T-Qsh8XYhZdH1/view?usp=drive_link
-
 ## How to run this project:
 - Clone this project
 - Open build.gradle file in IntelliJ IDEA
@@ -28,6 +22,12 @@ https://drive.google.com/file/d/1yv5MrcsUMvZEplXPxW9T-Qsh8XYhZdH1/view?usp=drive
 
 ## Test Cases:
 https://docs.google.com/spreadsheets/d/1xQQF3ndqf3QDY_6dUOe_MUGIJcyqIU7z2aKrMY-0N_4/edit?usp=sharing
+
+## Smoke_Test Automation Video:
+https://drive.google.com/file/d/13HuR8JboLOWjzwwJPhGuzKDmI2aw6s6T/view?usp=drive_link
+
+## Regression_Test Automation Video:
+https://drive.google.com/file/d/1yv5MrcsUMvZEplXPxW9T-Qsh8XYhZdH1/view?usp=drive_link
 
 ## Allure report screenshot for Smoke_Test:
 ![smoke1](https://github.com/rabbypathan/OrangeHRM_Selenium_TestNG_Automation/assets/70917088/04be3503-2c6b-446a-91bd-876a643a94de)
